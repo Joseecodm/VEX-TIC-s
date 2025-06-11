@@ -1,2 +1,3 @@
 # VEX-TIC-s
-Repository for VEX-Robotics programming
+Repository for VEX-Robotics programming 
+- Soy jose
